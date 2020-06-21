@@ -1,2 +1,2 @@
 # django-telbot
-writing a telegram boy by django
+writing a telegram bot by django
