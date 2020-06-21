@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="86ba7a73-fd58-47f9-b7eb-cca966e213b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoTelbot/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTelbot/settings/production.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,9 @@
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1dOlSgZMtdQypX4Pr84pJ2EifAa" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -132,7 +135,7 @@
       <workItem from="1592547473800" duration="33513000" />
       <workItem from="1592714575406" duration="12028000" />
       <workItem from="1592734638923" duration="187000" />
-      <workItem from="1592734930003" duration="1660000" />
+      <workItem from="1592734930003" duration="2301000" />
     </task>
     <task id="LOCAL-00001" summary="update requirements">
       <created>1592735258587</created>
@@ -155,36 +158,52 @@
       <option name="project" value="LOCAL" />
       <updated>1592736404548</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Procfile made">
+      <created>1592736738763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1592736738763</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Procfile made">
+      <created>1592736846519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1592736846519</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="start" />
     <MESSAGE value="update requirements" />
     <MESSAGE value="adding STATIC_ROOT" />
     <MESSAGE value="heroku procfile" />
-    <option name="LAST_COMMIT_MESSAGE" value="heroku procfile" />
+    <MESSAGE value="Procfile made" />
+    <option name="LAST_COMMIT_MESSAGE" value="Procfile made" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592571128606">
+    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592737197814">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.770@0.0.1280.770" timestamp="1592571128606" />
+    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.770@0.0.1280.770" timestamp="1592737197814" />
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592462866702">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592462866702" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1592736737723">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1592736845409">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592736737723" />
-    <state x="374" y="146" key="EnvironmentVariablesDialog" timestamp="1592571127636">
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592736845409" />
+    <state x="374" y="146" key="EnvironmentVariablesDialog" timestamp="1592737196934">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="374" y="146" key="EnvironmentVariablesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592571127636" />
+    <state x="374" y="146" key="EnvironmentVariablesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592737196934" />
     <state x="420" y="139" key="FileChooserDialogImpl" timestamp="1592478233761">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -225,10 +244,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="141" y="16" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1592313890937" />
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592736742193">
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592736854009">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592736742193" />
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592736854009" />
     <state x="449" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592734782436">
       <screen x="0" y="0" width="1280" height="770" />
     </state>

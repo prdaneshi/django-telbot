@@ -4,11 +4,11 @@ from djangoTelbot.settings.updater_setting import *
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'deni53okj1kfg0',
-        'USER': 'slwywneiwysvah',
-        'PASSWORD': '81f78c5ae27dcbbf381e572dfb257b9a41c01c2f3952a3280fad77cb70e7ff59',
-        'HOST': 'ec2-54-243-252-232.compute-1.amazonaws.com',
-        'PORT': '',
+        'NAME': 'd3v4uv3vsahuse',
+        'USER': 'cznlzubulmcozk',
+        'PASSWORD': 'bdabae13c5d64454862ce988fe596b3ada164a73c08c9e591c521dddaf71460e',
+        'HOST': 'ec2-54-247-79-178.eu-west-1.compute.amazonaws.com',
+        'PORT': '5432',
     }
 }
 
