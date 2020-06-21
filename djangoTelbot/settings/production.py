@@ -19,6 +19,6 @@ try:
     updater.start_webhook(listen="0.0.0.0",
                           port=PORT,
                           url_path=token)
-    updater.bot.set_webhook("https://{}.herokuapp.com/{}".format(HEROKU_APP_NAME, token))
+    updater.bot.set_webhook("https://{}.herokuapp.com/".format(HEROKU_APP_NAME))
 except Exception as error:
     print(error)
