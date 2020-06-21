@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="86ba7a73-fd58-47f9-b7eb-cca966e213b2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,7 +132,7 @@
       <workItem from="1592547473800" duration="33513000" />
       <workItem from="1592714575406" duration="12028000" />
       <workItem from="1592734638923" duration="187000" />
-      <workItem from="1592734930003" duration="545000" />
+      <workItem from="1592734930003" duration="1299000" />
     </task>
     <task id="LOCAL-00001" summary="update requirements">
       <created>1592735258587</created>
@@ -141,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592735258587</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding STATIC_ROOT">
+      <created>1592735630121</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1592735630121</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,7 +157,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="start" />
     <MESSAGE value="update requirements" />
-    <option name="LAST_COMMIT_MESSAGE" value="update requirements" />
+    <MESSAGE value="adding STATIC_ROOT" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding STATIC_ROOT" />
   </component>
   <component name="WindowStateProjectService">
     <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592571128606">
@@ -161,10 +169,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592462866702" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1592735255997">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1592735629091">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592735255997" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592735629091" />
     <state x="374" y="146" key="EnvironmentVariablesDialog" timestamp="1592571127636">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -209,10 +217,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="141" y="16" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1592313890937" />
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592735275567">
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592735637951">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592735275567" />
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592735637951" />
     <state x="449" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592734782436">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
