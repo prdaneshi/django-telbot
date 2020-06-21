@@ -61,6 +61,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DatabaseDriversLRU" value="postgresql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -176,10 +177,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592462866702" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1592736702717">
+    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1592736737723">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592736702717" />
+    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592736737723" />
     <state x="374" y="146" key="EnvironmentVariablesDialog" timestamp="1592571127636">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -224,10 +225,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="141" y="16" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1592313890937" />
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592736409500">
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592736742193">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592736409500" />
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592736742193" />
     <state x="449" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592734782436">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
