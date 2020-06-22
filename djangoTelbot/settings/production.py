@@ -14,15 +14,11 @@ DATABASES = {
 
 
 try:
-    # PORT = int(os.environ.get("PORT", "8443"))
-    # HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
-    # updater.start_webhook(listen="0.0.0.0",
-    #                       port=PORT,
-    #                       url_path=token)
     PORT = int(os.environ.get("PORT", "8443"))
     HEROKU_APP_NAME = os.environ.get("HEROKU_APP_NAME")
     updater.start_webhook(listen="0.0.0.0",
-                          port=PORT)
-    updater.bot.set_webhook("https://{}.herokuapp.com/".format(HEROKU_APP_NAME))
+                          port=PORT,
+                          url_path=token)
+    updater.bot.set_webhook("https://{}.herokuapp.com/{}".format(HEROKU_APP_NAME, token))
 except Exception as error:
     print(error)

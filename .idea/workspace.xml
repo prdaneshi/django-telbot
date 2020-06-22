@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86ba7a73-fd58-47f9-b7eb-cca966e213b2" name="Default Changelist" comment="">
+    <list default="true" id="86ba7a73-fd58-47f9-b7eb-cca966e213b2" name="Default Changelist" comment="url change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/djangoTelbot/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTelbot/settings/production.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/djangoTelbot/settings/updater_setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTelbot/settings/updater_setting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -135,7 +137,8 @@
       <workItem from="1592547473800" duration="33513000" />
       <workItem from="1592714575406" duration="12028000" />
       <workItem from="1592734638923" duration="187000" />
-      <workItem from="1592734930003" duration="4288000" />
+      <workItem from="1592734930003" duration="5223000" />
+      <workItem from="1592789073444" duration="2311000" />
     </task>
     <task id="LOCAL-00001" summary="update requirements">
       <created>1592735258587</created>
@@ -193,7 +196,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592738609274</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="webhook">
+      <created>1592739424013</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1592739424013</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,42 +221,42 @@
     <option name="LAST_COMMIT_MESSAGE" value="webhook" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592737197814">
+    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592739689063">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.770@0.0.1280.770" timestamp="1592737197814" />
+    <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.770@0.0.1280.770" timestamp="1592739689063" />
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592462866702">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592462866702" />
-    <state x="265" y="0" key="CommitChangelistDialog2" timestamp="1592738575804">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1592809471038">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="265" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592738575804" />
-    <state x="374" y="146" key="EnvironmentVariablesDialog" timestamp="1592737196934">
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592809471038" />
+    <state x="374" y="146" key="EnvironmentVariablesDialog" timestamp="1592739688213">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="374" y="146" key="EnvironmentVariablesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592737196934" />
+    <state x="374" y="146" key="EnvironmentVariablesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592739688213" />
     <state x="420" y="139" key="FileChooserDialogImpl" timestamp="1592478233761">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="420" y="139" key="FileChooserDialogImpl/0.0.1280.770@0.0.1280.770" timestamp="1592478233761" />
-    <state width="1236" height="240" key="GridCell.Tab.0.bottom" timestamp="1592731143059">
+    <state width="1236" height="182" key="GridCell.Tab.0.bottom" timestamp="1592745661591">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1236" height="240" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1592731143059" />
-    <state width="1236" height="240" key="GridCell.Tab.0.center" timestamp="1592731143058">
+    <state width="1236" height="182" key="GridCell.Tab.0.bottom/0.0.1280.770@0.0.1280.770" timestamp="1592745661591" />
+    <state width="1236" height="182" key="GridCell.Tab.0.center" timestamp="1592745661591">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1236" height="240" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1592731143058" />
-    <state width="1236" height="240" key="GridCell.Tab.0.left" timestamp="1592731143058">
+    <state width="1236" height="182" key="GridCell.Tab.0.center/0.0.1280.770@0.0.1280.770" timestamp="1592745661591" />
+    <state width="1236" height="182" key="GridCell.Tab.0.left" timestamp="1592745661591">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1236" height="240" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1592731143058" />
-    <state width="1236" height="240" key="GridCell.Tab.0.right" timestamp="1592731143058">
+    <state width="1236" height="182" key="GridCell.Tab.0.left/0.0.1280.770@0.0.1280.770" timestamp="1592745661591" />
+    <state width="1236" height="182" key="GridCell.Tab.0.right" timestamp="1592745661591">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state width="1236" height="240" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1592731143058" />
+    <state width="1236" height="182" key="GridCell.Tab.0.right/0.0.1280.770@0.0.1280.770" timestamp="1592745661591" />
     <state width="1236" height="240" key="GridCell.Tab.1.bottom" timestamp="1592731143090">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -267,10 +277,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="141" y="16" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1592313890937" />
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592738787606">
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592739427456">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592738787606" />
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592739427456" />
     <state x="449" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592734782436">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
