@@ -12,6 +12,7 @@ DATABASES = {
     }
 }
 
+ALLOWED_HOSTS = ["*"]
 
 try:
     PORT = int(os.environ.get("PORT", "8443"))
@@ -20,5 +21,6 @@ try:
                           port=PORT,
                           url_path=token)
     updater.bot.set_webhook("https://{}.herokuapp.com/{}".format(HEROKU_APP_NAME, token))
+    # updater.bot.set_webhook("https://fedd6fa1d45a.ngrok.io/")
 except Exception as error:
     print(error)

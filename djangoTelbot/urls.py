@@ -23,5 +23,6 @@ from djangoTelbot.views import *
 urlpatterns = [
     path('admin/', admin.site.urls),
  #   path('webhooks/tutorial/', csrf_exempt(TutorialBotView.as_view())),
-    path('', include('bot.urls'))
+ #   path('', include('bot.urls'),
+    path('', csrf_exempt(views.main))
 ]

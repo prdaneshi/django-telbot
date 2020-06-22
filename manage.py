@@ -5,7 +5,6 @@ import sys
 
 
 def main():
-    mode = 'local'
     if mode == 'local':
         os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'djangoTelbot.settings.develop')
     elif mode == 'host':
