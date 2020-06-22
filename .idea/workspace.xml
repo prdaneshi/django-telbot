@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="86ba7a73-fd58-47f9-b7eb-cca966e213b2" name="Default Changelist" comment="url change">
+    <list default="true" id="86ba7a73-fd58-47f9-b7eb-cca966e213b2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bot/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoTelbot/settings/production.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTelbot/settings/production.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/djangoTelbot/settings/updater_setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/djangoTelbot/settings/updater_setting.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +136,7 @@
       <workItem from="1592734638923" duration="187000" />
       <workItem from="1592734930003" duration="5223000" />
       <workItem from="1592789073444" duration="2311000" />
+      <workItem from="1592817059213" duration="403000" />
     </task>
     <task id="LOCAL-00001" summary="update requirements">
       <created>1592735258587</created>
@@ -203,7 +201,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592739424013</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="url change">
+      <created>1592817184629</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1592817184629</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,7 +223,8 @@
     <MESSAGE value="Procfile made" />
     <MESSAGE value="host setting" />
     <MESSAGE value="webhook" />
-    <option name="LAST_COMMIT_MESSAGE" value="webhook" />
+    <MESSAGE value="url change" />
+    <option name="LAST_COMMIT_MESSAGE" value="url change" />
   </component>
   <component name="WindowStateProjectService">
     <state x="188" y="42" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592739689063">
@@ -229,10 +235,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="370" y="131" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.770@0.0.1280.770" timestamp="1592462866702" />
-    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1592809471038">
+    <state x="272" y="0" key="CommitChangelistDialog2" timestamp="1592817182479">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592809471038" />
+    <state x="272" y="0" key="CommitChangelistDialog2/0.0.1280.770@0.0.1280.770" timestamp="1592817182479" />
     <state x="374" y="146" key="EnvironmentVariablesDialog" timestamp="1592739688213">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
@@ -277,10 +283,10 @@
       <screen x="0" y="0" width="1280" height="770" />
     </state>
     <state x="141" y="16" key="SettingsEditor/0.0.1280.770@0.0.1280.770" timestamp="1592313890937" />
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592739427456">
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2" timestamp="1592817214819">
       <screen x="0" y="0" width="1280" height="770" />
     </state>
-    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592739427456" />
+    <state x="232" y="117" key="Vcs.Push.Dialog.v2/0.0.1280.770@0.0.1280.770" timestamp="1592817214819" />
     <state x="449" y="301" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1592734782436">
       <screen x="0" y="0" width="1280" height="770" />
     </state>

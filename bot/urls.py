@@ -6,5 +6,5 @@ import os
 
 token = os.getenv("TOKEN")
 urlpatterns = [
-    path('/{}'.format(token), csrf_exempt(views.main))
+    path('{}'.format(token), csrf_exempt(views.main))
 ]
